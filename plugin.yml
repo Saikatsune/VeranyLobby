@@ -1,0 +1,9 @@
+name: VeranyLobby
+author: Saikatsune
+version: 1.0-SNAPSHOT
+main: net.saikatsune.veranylobby.data.VeranyLobby
+
+commands:
+  setup:
+  staff:
+  lms:
